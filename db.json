@@ -97,12 +97,6 @@
           "price": 12.5,
           "ingridients": "Лосось, сладкий перец, черри, вяленые томаты, сельдерей, оливки, лук-порей, кунжут, заправка",
           "picture": "https://cloud.terrapizza.by/cat/ELB1894x70914.jpg"
-        },
-        {
-          "name": "Томаты, огурцы, сладкий перец, маслины, сыр фета, заправка",
-          "price": 9.5,
-          "ingridients": "Салат Греческий",
-          "picture": "https://cloud.terrapizza.by/cat/ELB1893X22340.jpg"
         }
       ]
     }
