@@ -1,4 +1,30 @@
 {
+  "restaraunts": [
+    {
+      "name": "La Scala",
+      "picture": "https://media-cdn.tripadvisor.com/media/photo-s/0e/cd/ed/84/caption.jpg"
+    },
+    {
+      "name": "Гранд кафе",
+      "picture": "https://media-cdn.tripadvisor.com/media/photo-s/16/9a/8d/9b/tasty-food.jpg"
+    },
+    {
+      "name": "Ember Restaraunt & bar",
+      "picture": "https://media-cdn.tripadvisor.com/media/photo-s/19/5b/d2/12/dry-aged-steak.jpg"
+    },
+    {
+      "name": "Фальконе",
+      "picture": "https://media-cdn.tripadvisor.com/media/photo-s/02/ae/9c/45/filename-6-jpg-thumbnail0.jpg"
+    },
+    {
+      "name": "Натврис Хе",
+      "picture": "https://media-cdn.tripadvisor.com/media/photo-s/06/8a/68/08/getlstd-property-photo.jpg"
+    },
+    {
+      "name": "Овино",
+      "picture": "https://media-cdn.tripadvisor.com/media/photo-s/16/11/26/0f/getlstd-property-photo.jpg"
+    }
+  ],
   "categories": [
     {
       "name": "Супы",
